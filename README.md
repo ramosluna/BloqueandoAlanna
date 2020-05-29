@@ -1,0 +1,2 @@
+# BloqueandoAlanna
+Qt - pyQt
